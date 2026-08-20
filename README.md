@@ -43,7 +43,7 @@ This is the deep-dive page. From the main dashboard, you can drill through to th
 
 ### Page 3: Job Title Drill Through
 
-![Job trend page](/images/Job%20Trend.png)  
+![Job trend page](/images/Job%20Trend.png)
 
 This page provides insights into job opportunities that do not require a degree, highlights the countries with the highest number of jobs, and includes a country selection option to explore job opportunities in each country.
 
